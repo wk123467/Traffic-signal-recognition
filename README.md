@@ -1,5 +1,7 @@
 # 交通信号识别
 
+## 实验结果
+![img](https://github.com/wk123467/Traffic-signal-recognition/blob/master/%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C.jpg)
 ## 利用C++检测红绿灯代码
 
 1. 检测红绿灯 —— YOLO3 —— 完成！
